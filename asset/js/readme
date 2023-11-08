@@ -1,0 +1,90 @@
+    <!-- <section class="blog-banner">
+        <div class="container">
+            <div class="blog-head">
+                <h2>Latest Blog & News</h2>
+            </div>
+            <div>
+                <div class=" blog-row gap-2 owl-carousel owl-theme" id="blog">
+                    <div>
+                        <div class="col" style="width: 418.667px; margin-right: 20px;">
+                            <div class="col-blog">
+                                <img class="adjust-img" src="./asset/image/blog-1.png" alt="just an image">
+                                <div class="broder-whole">
+                                    <h4>Why you have to digitalize in 2021</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros
+                                        blandit,
+                                        hendrerit elit et, </p>
+                                    <a href="#" class="me-2">Learn More</a>
+                                    <img src="./asset/image/arrow.png" alt="just an icon">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col" style="width: 418.667px; margin-right: 20px;">
+                            <div class="col-blog">
+                                <img class="adjust-img" src="./asset/image/owl-2.png" alt="just an image">
+                                <div class="broder-whole">
+                                    <h4>Our internal process and longerm vision</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros
+                                        blandit,
+                                        hendrerit elit et, </p>
+                                    <a href="#" class="me-2">Learn More</a>
+                                    <img src="./asset/image/arrow.png" alt="just an icon">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col" style="width: 418.667px; margin-right: 20px;">
+                            <div class="col-blog">
+                                <img class="adjust-img" src="./asset/image/owl-3.png" alt="just an image">
+                                <div class="broder-whole">
+                                    <h4>Helping the next generation of leaders</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros
+                                        blandit,
+                                        hendrerit elit et, </p>
+                                    <a href="#" class="me-2">Learn More</a>
+                                    <img src="./asset/image/arrow.png" alt="just an icon">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col " style="width: 418.667px; margin-right: 20px;">
+                            <div class="col-blog">
+                                <img class="adjust-img" src="./asset/image/blog-1.png" alt="just an image">
+                                <div class="broder-whole">
+                                    <h4>Why you have to digitalize in 2021</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros
+                                        blandit,
+                                        hendrerit elit et, </p>
+                                    <a href="#" class="me-2">Learn More</a>
+                                    <img src="./asset/image/arrow.png" alt="just an icon">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col " style="width: 418.667px; margin-right: 20px;">
+                            <div class="col-blog">
+                                <img class="adjust-img" src="./asset/image/owl-2.png" alt="just an image">
+                                <div class="broder-whole">
+                                    <h4>Our internal process and longerm vision</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros
+                                        blandit,
+                                        hendrerit elit et, </p>
+                                    <a href="#" class="me-2">Learn More</a>
+                                    <img src="./asset/image/arrow.png" alt="just an icon">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col " style="width: 418.667px; margin-right: 20px;">
+                            <div class="col-blog">
+                                <img class="adjust-img" src="./asset/image/owl-3.png" alt="just an image">
+                                <div class="broder-whole">
+                                    <h4>Helping the next generation of leaders</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros
+                                        blandit,
+                                        hendrerit elit et, </p>
+                                    <a href="#" class="me-2">Learn More</a>
+                                    <img src="./asset/image/arrow.png" alt="just an icon">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section> -->
